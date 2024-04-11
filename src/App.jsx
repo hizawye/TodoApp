@@ -2,8 +2,11 @@ import './App.css'
 import Todolist from './components/Todolist'
 
 
-export default function App () {
+export default function App() {
   return (
-    <Todolist />
+    <>
+      <h3>Todolist app</h3>
+      <Todolist />
+    </>
   )
 }
