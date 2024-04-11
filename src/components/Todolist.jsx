@@ -1,6 +1,6 @@
 import React, { useReducer, useState } from 'react'
-import { IoIosAdd } from "react-icons/io";
 
+import { IoIosAdd } from "react-icons/io";
 import { MdDeleteOutline } from 'react-icons/md'
 import { CiEdit } from "react-icons/ci";
 import { MdOutlineCancel } from "react-icons/md";
